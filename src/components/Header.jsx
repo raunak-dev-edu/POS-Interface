@@ -34,7 +34,7 @@ const Header = () => {
       animate={{ opacity: 1 }}
       transition={{ duration: 1 }}
     >
-      <AppBar position="static">
+      <AppBar position="fixed">
         <Toolbar>
           
           <Box

@@ -16,7 +16,7 @@ function App() {
       <Router>
         <CssBaseline />
         <Header />
-        <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
+        <Container maxWidth="lg" sx={{ mt: 14, mb: 4 }}>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/cart" element={<Cart />} />
