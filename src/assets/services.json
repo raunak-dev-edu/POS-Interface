@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Yoga Class",
+    "description": "Join our yoga classes to relax, rejuvenate, and enhance flexibility.",
+    "price": 1500,
+    "image": "https://images.unsplash.com/photo-1549995546-87cb41aa98a4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Personal Training",
+    "description": "Achieve your fitness goals with expert one-on-one training sessions.",
+    "price": 3500,
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Therapy Session",
+    "description": "Improve mental well-being with professional therapy and guidance.",
+    "price": 2000,
+    "image": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Massage Therapy",
+    "description": "Ease tension and relax your body with expert massage techniques.",
+    "price": 2500,
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "Art Workshop",
+    "description": "Unleash your creativity with hands-on, engaging art workshops.",
+    "price": 1800,
+    "image": "https://images.unsplash.com/photo-1513738260158-30e559c10093?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Cooking Class",
+    "description": "Learn to cook delicious recipes with expert guidance from chefs.",
+    "price": 2200,
+    "image": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 7,
+    "name": "Dance Class",
+    "description": "Dance to your favorite tunes and improve fitness with our classes.",
+    "price": 1500,
+    "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6"
+  },
+  {
+    "id": 8,
+    "name": "Photography Workshop",
+    "description": "Learn photography skills and techniques with hands-on workshops.",
+    "price": 3000,
+    "image": "https://images.unsplash.com/photo-1647346835602-9867b8ff62f1?q=80&w=1985&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 9,
+    "name": "Coding Bootcamp",
+    "description": "Upskill with our intensive bootcamp and learn industry-relevant coding.",
+    "price": 5000,
+    "image": "https://images.unsplash.com/photo-1528901166007-3784c7dd3653?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 10,
+    "name": "Language Class",
+    "description": "Master a new language with interactive sessions by expert tutors.",
+    "price": 2500,
+    "image": "https://plus.unsplash.com/premium_photo-1663040081470-397e31e4b2a6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
