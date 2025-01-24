@@ -5,10 +5,6 @@ A Point of Sale (POS) interface for selling services, built with React and Mater
 
 You can view the live application here: [POS Interface](https://pos-gamma-six.vercel.app/)
 
-## User Flow
-
-![image](https://github.com/user-attachments/assets/0a187486-86dd-49e6-a36a-70eb9879b70e)
-
 
 ## Technologies Used
 
